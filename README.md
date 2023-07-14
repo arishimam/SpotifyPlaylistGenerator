@@ -6,7 +6,7 @@ This application uses the OpenAI API to generate a playlist based on a given pro
 
 ## Setup
 
-1. Clone the repository: `git clone https://github.com/yourusername/yourrepository.git`
+1. Clone the repository: `git clone https://github.com/arishimam/SpotifyPlaylistGenerator.git`
 2. Navigate to the project directory: `cd yourrepository`
 3. Install the required dependencies: `pip install -r requirements.txt`
 
@@ -26,7 +26,7 @@ Replace openai_api_key_goes_here, spotify_client_id_goes_here, and spotify_clien
 
 The application can be used with command line arguments:
 
--p is the prompt describing the playlist. For example, -p "fun songs".
+-p is the prompt describing the playlist. For example, -p "songs that are really fun".
 -n is the number of songs to be added to the playlist. For example, -n 10.
 
 For example:
