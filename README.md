@@ -1,6 +1,6 @@
-# SpotifyPlaylistGenerator
+# Spotify Playlist Generator
 
-# AI Playlist Generator
+## AI Playlist Generator
 
 This application uses the OpenAI API to generate a playlist based on a given prompt, and then uses the Spotify API to create this playlist for the user.
 
